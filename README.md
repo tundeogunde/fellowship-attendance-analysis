@@ -158,7 +158,7 @@ To protect organizational privacy, the original dataset is not included in this 
 - Executive Reporting
 
 ## **Author**
-**Oladipupo A. T. OOGUNDE**
+**Oladipupo A. T. OGUNDE**
 Data Analyst | Business Intelligence | Data Visualization | SQL | Power BI | Tableau | Python
 
 **LinkeIn:** 

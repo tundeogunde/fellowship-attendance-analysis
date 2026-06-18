@@ -7,7 +7,7 @@ The solution was developed using Microsoft Power BI and provides an interactive 
 ## **Live Dashboard**
 An interactive version of this dashboard is available online:
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAyOWFiMjMtZjAzNi00ZTM0LTg4ODQtOWI5YjI1OTM1YmU0IiwidCI6ImIyYjlhYTc0LWVmMTctNGViOC04MDI2LTYwMDkzYzUzZjA5NyJ9)
-### **Power BI Dashboard:**
+#### **Power BI Dashboard:**
 The dashboard allows users to:
 - Explore attendance trends across multiple years
 - Analyze center activity performance
@@ -60,7 +60,7 @@ This project was designed to answer the following questions:
 ## **Dashboard Structure**
 ### **Dashboard 1 – Executive Summary**
 Executive KPIs comparing current performance with previous-year performance.
-**Key Metrics:**
+#### **Key Metrics:**
 - Total Attendance
 - First Timers
 - New Converts

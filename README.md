@@ -7,7 +7,7 @@ The solution was developed using Microsoft Power BI and provides an interactive 
 ## **Live Dashboard**
 An interactive version of this dashboard is available online:
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAyOWFiMjMtZjAzNi00ZTM0LTg4ODQtOWI5YjI1OTM1YmU0IiwidCI6ImIyYjlhYTc0LWVmMTctNGViOC04MDI2LTYwMDkzYzUzZjA5NyJ9)
-**Power BI Dashboard:**
+### **Power BI Dashboard:**
 The dashboard allows users to:
 - Explore attendance trends across multiple years
 - Analyze center activity performance
@@ -33,19 +33,19 @@ The dashboard allows users to:
 
 ## **Business Questions**
 This project was designed to answer the following questions:
-**Growth and Engagement**
+#### **Growth and Engagement**
 - Is attendance growing or declining over time?
 - How does current performance compare with the previous year?
 - Which regions and provinces contribute most to growth?
-**Operational Effectiveness**
+#### **Operational Effectiveness**
 - What percentage of fellowship centers are actively holding meetings?
 - Which areas have the highest and lowest center activity rates?
 - How does center activity affect attendance performance?
-**Demographic Participation**	
+#### **Demographic Participation**	
 - What is the demographic composition of attendees?
 - How do participation patterns vary across regions and provinces?
 - Which demographic groups are growing fastest?
-**Evangelism and Assimilation**
+#### **Evangelism and Assimilation**
 - Are fellowship centers attracting new people?
 - How effective are regions at converting visitors into active participants?
 - What opportunities exist to strengthen outreach and follow-up efforts?
@@ -68,44 +68,44 @@ Executive KPIs comparing current performance with previous-year performance.
 - Year-over-Year Growth
 ### **Dashboard 2 – Center Activity Analysis**
 Analysis of operational effectiveness and meeting execution.
-**Key Metrics:**
+#### **Key Metrics:**
 - Total Attendance
 - Average Weekly Province Attendance
 - Center Activity Rate
-**Visuals:**
+#### **Visuals:**
 - Monthly Center Activity Rate and Attendance Trend
 - Provincial Center Activity Rate
 - Regional Center Activity Rate
 ### **Dashboard 3 – Demographic Analysis**
 Analysis of attendee composition and participation patterns.
-**Key Metrics:**
+#### **Key Metrics:**
 - Male Attendance
 - Female Attendance
 - Children Attendance
-**Visuals:**
+#### **Visuals:**
 - Demographic Distribution
 - Regional Demographic Distribution
 - Provincial Demographic Distribution
 - Monthly Demographic Trends
 ### **Dashboard 4 – Attendance Analysis**
 Evaluation of attendance effectiveness and participation trends.
-**Key Metrics:**
+#### **Key Metrics:**
 - Total Attendance
 - Total Expected Meetings
 - Attendance Rate per Meeting
-**Visuals:**
+#### **Visuals:**
 - Monthly Attendance Rate Trend
 - Attendance Rate by Province
 - Attendance Rate by Region
 ### **Dashboard 5 – Evangelism Indication Analysis**
 Assessment of outreach effectiveness and visitor conversion.
-**Key Metrics:**
+#### **Key Metrics:**
 - First Timers
 - First Timers Ratio
 - New Converts
 - New Converts Ratio
 - Converts-to-First Timers Ratio
-**Visuals:**
+#### **Visuals:**
 - First Timers Trend
 - First Timers by Region
 - Outreach Performance Analysis

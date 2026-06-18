@@ -20,16 +20,16 @@ The dashboard allows users to:
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAyOWFiMjMtZjAzNi00ZTM0LTg4ODQtOWI5YjI1OTM1YmU0IiwidCI6ImIyYjlhYTc0LWVmMTctNGViOC04MDI2LTYwMDkzYzUzZjA5NyJ9)
 
 **Executive Presentation:**
-[presentation/Executive_Presentation.pdf](presentation/Executive_Presentation.pdf)
+[Download PDF](presentation/Executive_Presentation.pdf)
 
 **Project Case Study:**
-[documentation/Project_Case_Study.pdf](documentation/Project_Case_Study.pdf)
+[Download PDF](documentation/Project_Case_Study.pdf)
 
 **Data Dictionary**
-[documentation/Data_Dictionary.pdf](documentation/Data_Dictionary.pdf)
+[Download PDF](documentation/Data_Dictionary.pdf)
 
 **Dashboard Guide**
-[documentation/Dashboard_Guide.pdf](documentation/Dashboard_Guide.pdf)
+[Download PDF](documentation/Dashboard_Guide.pdf)
 
 ## **Business Questions**
 This project was designed to answer the following questions:
